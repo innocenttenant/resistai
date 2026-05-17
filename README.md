@@ -18,7 +18,7 @@ To run this project on a Windows machine, follow these steps:
 
 ### 2. Clone the Repository
 ```powershell
-git clone <YOUR_REPO_URL>
+git clone git@github.com:innocenttenant/resistai.git
 cd ResistAI_final_try
 git lfs pull
 ```
